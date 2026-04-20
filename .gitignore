@@ -1,1 +1,20 @@
-node_modules/ 
+# Node
+node_modules/
+resume/node_modules/
+
+# Build files
+target/
+build/
+dist/
+
+# Logs
+*.log
+
+# IDE files
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
